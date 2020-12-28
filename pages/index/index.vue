@@ -10,7 +10,7 @@ export default {
 			// 注意：静态的html文件需要放在根路径下的 hybrid/html 文件夹中
 			viewerUrl: '/hybrid/html/web/viewer.html',
 			// 要访问的pdf的路径
-			fileUrl: 'http://47.101.183.8:8088/test.pdf',
+			fileUrl: './showInspectionRecord.pdf',
 			// 最终显示在web-view中的路径
 			url: ''
 		};

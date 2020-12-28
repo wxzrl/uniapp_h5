@@ -722,6 +722,7 @@ html[dir='rtl'] #toolbarContainer, .findbar, .secondaryToolbar {
 
 #toolbarViewer {
   height: 32px;
+	display: none;
 }
 
 #loadingBar {
